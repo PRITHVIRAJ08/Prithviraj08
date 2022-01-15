@@ -11,7 +11,7 @@ Wanna know me? Check here 👇
 - 💬 Ask me about Calculus and stuff like maths...
 - 📫 Can reach me [Here](mailto:prithvi82004@gmail.com)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I dont really love you.....
+
 
 
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
